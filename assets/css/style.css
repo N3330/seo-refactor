@@ -199,3 +199,8 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* removes underline decoration in abbreviation */
+abbr {
+    text-decoration: none;
+}
